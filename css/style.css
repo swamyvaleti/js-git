@@ -9,7 +9,7 @@ body, h1, h2, h3, p, ul, li, a {
 body {
   line-height: 1.6;
   background-color: #f4f4f9;
-  color: #333;
+  color: red;
 }
 
 /* Navbar */
